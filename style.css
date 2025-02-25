@@ -1,0 +1,50 @@
+*, html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(2, 2, 19);
+    padding: 20px;
+    color: aliceblue;
+}
+
+header {
+    color: rgb(19, 192, 255);
+    display: flex;
+    gap:20px;
+    justify-content: center;
+}
+
+header img {
+    border-radius: 20px;
+    padding-left: 10px;
+}
+
+h1 {
+    padding-left: 20px;
+}
+
+h2 {
+    color: rgb(19, 192, 255);
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+ul {
+    color: aliceblue;
+}
+
+li {
+    font-size:20px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+p {
+    font-size:20px;
+}
+

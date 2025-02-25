@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "D:/matkul semester 1/pemrogaman dasar/HTML"
+		},
+		{
+			"path": "D:/matkul semester 2/pemrograman lanjut"
+		},
+		{
+			"path": "D:/LEARNINGHTML"
+		},
+		{
+			"path": "D:/freecodecamp"
+		},
+		{
+			"path": "D:/matkul semester 2/pemograman web/helloworld"
+		},
+		{
+			"path": "../modul1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aboutme"
+	}
+}
